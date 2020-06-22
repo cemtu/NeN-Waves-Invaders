@@ -24,7 +24,7 @@ and press F11 for better playing experience.
 <tr>
 <td align="center">
     <a href="https://github.com/zertel">
-        <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/12991000_10207781456307239_6934714455850674590_n.jpg?_nc_cat=110&_nc_oc=AQkjntdgpHS1AM6TfFsxzFat63IE5cWhxMzkEqpxvjLME0Yv4UdCUQgHP78ccjMRW_g&_nc_ht=scontent-mxp1-1.xx&oh=b82e31f9e9c24f044ac1af839ec0f679&oe=5D82115E"width="100px;" alt="Orhan Tutum"/><br />
+        <img src="https://avatars2.githubusercontent.com/u/6156202?s=460&u=0019a46caac2aecca047a94cbf009fc7f2ae841d&v=4"width="100px;" alt="Orhan Tutum"/><br />
         <sub><b>Orhan Tutum</b></sub>
     </a>
     <br />
