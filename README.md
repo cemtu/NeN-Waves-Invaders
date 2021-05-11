@@ -20,7 +20,7 @@ and press F11 for better playing experience.
 ```
 
 ## Contributors ✨
-<table align="center">
+<table>
 <tr>
 <td align="center">
     <a href="https://github.com/zertel">
